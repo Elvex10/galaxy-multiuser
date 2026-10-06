@@ -1,0 +1,6 @@
+id=galaxy-multiuser
+name=Galaxy multiuser enabler
+version=1.0
+versionCode=1
+author=Elvex10
+description=KernelSU module for enabling Android multi-user properties on Samsung Galaxy devices.
